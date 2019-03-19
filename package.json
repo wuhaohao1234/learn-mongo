@@ -1,0 +1,20 @@
+{
+  "name": "operation-mongo",
+  "version": "1.0.0",
+  "description": "node链接mongodb中的简化API",
+  "main": "dist/index.js",
+  "repository": "https://github.com/wuhaohao1234/learn-mongo.git",
+  "author": "wuhaohao <1611499758@qq.com>",
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc",
+    "lint": "tslint --project tslint.json"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mongodb": "^3.1.22",
+    "mongodb": "^3.1.13",
+    "tslint": "^5.14.0",
+    "typescript": "^3.3.3333"
+  }
+}

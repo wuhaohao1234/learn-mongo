@@ -1,2 +1,3 @@
-# learn-mongo
-mongodb文档
+# operation-mongo
+
+> node链接mongodb中的简化API
